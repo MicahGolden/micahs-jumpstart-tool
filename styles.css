@@ -1,0 +1,58 @@
+.navbar {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  gap: 280px;
+  justify-content: center;
+  background-color: saddlebrown;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.navbar h1 {
+  background-color: orange;
+  color: white;
+  font-style: italic;
+}
+.navbar a {
+  margin-top: 30px;
+  font-size: 30px;
+}
+.navbar button {
+  height: 40px;
+  margin-top: 20px;
+}
+
+.button-controller {
+  display: grid;
+  justify-content: center;
+  font-size: 40px;
+  margin-top: 25px;
+  text-align: center;
+  color: white;
+}
+.button-controller .rColor {
+  font-size: 40px;
+}
+.button-controller .control-panel {
+  background-color: black;
+  border-radius: 2px;
+  border: 5px solid grey;
+}
+.button-controller p {
+  font-style: italic;
+}
+.button-controller button {
+  height: 50px;
+  font-size: large;
+}
+.button-controller img {
+  width: 100px;
+}
+.button-controller img:hover {
+  cursor: pointer;
+  background-color: blue;
+}
+
+body {
+  background-image: url("jumpstart-art.jpeg");
+  background-size: 2000px;
+}/*# sourceMappingURL=styles.css.map */
