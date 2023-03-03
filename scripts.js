@@ -1,6 +1,6 @@
 let colorArray = ["White", "Blue", "Black", "Red","Green"]
-let whitePacks = ["Doctor", "Holy", "Angels"]
-let bluePacks = ["Archaelogy", "Scrying"]
+let whitePacks = ["Doctor", "Holy", "Angels", "Cats"]
+let bluePacks = ["Archaelogy", "Scrying", "Detective"]
 let blackPacks = ["Rats","Zombies"];
 let redPacks = ["Golbins","Lightning","Fiery","Cycling"]
 let greenPacks = ["Elves"]
